@@ -1,0 +1,13 @@
+.sheetBody {
+  display: flex;
+  justify-content: space-between;
+}
+
+.attributeRow {
+  display: flex;
+  gap: 12px;
+}
+
+.red {
+  color: red;
+}
